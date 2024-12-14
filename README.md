@@ -13,6 +13,10 @@ ECCV 2024
 
 #### [Project Page](https://olafseg.github.io/) | [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04338.pdf) | [Arxiv](https://arxiv.org/pdf/2411.02858) | 
 
+<p float="left">
+    <img src="assets/figure1.jpg" height="320"/>
+</p>
+
 ## Dependencies
 Create Conda environment with Python 3.8, PyTorch 1.12.0, and CUDA 10.2 using the following commands:
   ```bash
