@@ -29,6 +29,7 @@ Create Conda environment with Python 3.8, PyTorch 1.12.0, and CUDA 10.2 using th
 python run/train.py -dataset pascal-part-58
 python run/infer.py -dataset pascal-part-58
 ```  
+*Note: The LDF code is encapsulated within the class `low_level_feature_extractor` and the implementation of our weight adaptation can be found in the `_load_pretrained_model` function of the backbone used.*
 
 
 ## Citation
